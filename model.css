@@ -1,0 +1,256 @@
+
+.table {
+   float: left;
+  width: 96%;
+  margin: 2em 0em 0em 1em;
+}
+
+
+
+
+
+.ECE {
+  float: left;
+  width: 54%;
+  margin: 0em 1em 1em 17em;
+}
+
+
+.ECE1 {
+  font-size: 32px;
+  font-family: Roboto serif;
+  font-weight: 400;
+  line-height: 43.2px;
+  text-decoration: rgb(32, 33, 36);
+  color: #202124;
+}
+
+.ECE2 {
+  font-family: Roboto serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: rgb(95, 99, 104);
+  color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.finalsection {
+  float: left;
+  width: 100%;
+  margin: 1em 0em 0em 17em;
+}
+
+.finalsection1 {
+  margin: 1em 0em 0em 0em;
+}
+
+.finalsection2 {
+  margin: 0em 0em 1em 0em;
+  padding: 1em 3em 1em 2em;
+  font-family: Roboto serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: RGB(255, 255, 255);
+  background: #8F00FF;
+  text-align: center;
+}
+
+.finalsection4 {
+  margin: -1em 0em 2em 40em;
+  padding: 0em 1em 0em 1em;
+  font-family: Roboto-serif;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: white;
+  text-indent: 0px;
+  color: RGB(103, 58, 183);
+}
+
+.finalsection3 {
+  margin: 1em 0em 0em 0em;
+  padding: 1em 1em 1em 0em;
+  font-family: Roboto-serif;
+  font-size: 12px;
+  font-weight: 400;color: gray;
+}
+
+.finalsection7 {
+  margin: 0em 0em 0em 13em;
+  padding: 1em 1em 1em 1em;
+  color: gray;
+  font-family: Roboto-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.finalsection5 {
+  font-family: Roboto-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: gray;
+  border-bottom: gray;
+  text-align: center;
+  margin: -2em 0em 0em 49em;
+  padding: 0em 0em 0em 0em;
+}
+.finalsection6 {
+  font-family: Roboto-serif;
+  font-size: 27px;
+  font-weight: 500;
+  margin: 1em 1em 1em 1em;
+  padding: 4em 0em 0em 12em;
+  color: gray;
+}
+
+
+
+
+
+
+.Report {
+  float: left;
+  width: 100%;
+  margin: 2em 0em 0em 19em;
+}
+
+
+.report1 {
+  font-family: Roboto-serif;
+  font-size: 26px;
+  font-weight: 500;
+  margin: -3em 1em 1em -14em;
+  padding: 4em 0em 0em 12em;
+  color: gray;
+}
+
+
+.report2 {
+  font-family: Roboto-serif;
+  font-size: 20.72px;
+  font-weight: 700;
+  color: black;
+margin: 2em 0em 0em -2em;}
+
+.option {
+  margin: 1em 0em 0em -1em;
+  padding: 0em 0em 0em 0em;
+  font-family: Robto-serif;
+  font-size: 26px;
+font-weight: 219;}
+
+.policy1 {
+  font-family: Roboto-serif;
+  font-size: 24.72px;
+  margin: 1em 0em 0em -2em;
+  padding: 0em 0em 0em 0em;
+}
+
+
+.policy2 {
+  font-family: Roboto-serif;
+  font-size: 17.72px;
+  margin: 1em 43em 0em -2em;
+  padding: 0em 0em 0em 0em;
+}
+.policy3 {
+  font-family: Roboto-serif;
+  font-size: 17.72px;
+  margin: 1em 43em 0em -2em;
+  padding: 0em 0em 0em 0em;
+}
+
+.policy4 {
+  font-family: Roboto-serif;
+  font-size: 17.72px;
+  margin: 1em 43em 0em -2em;
+  padding: 1em 0em 1em 0em;
+}
+
+.canel {
+  margin: 2em 0em 0em -4em;
+  padding: 1em 2em 1em 2em;
+  font-family: Roboto-serif;
+  font-size: 14px;
+  color: black;
+}
+
+.canel1 {
+  margin: 2em 0em 0em 1em;
+  padding: 1em 2em 1em 2em;
+  font-family: Roboto-serif;
+  font-size: 14px;
+  color: black;
+  
+  background-color: RGB(66, 133, 244);
+  
+}
+
+
+.Submit {
+  float: left;
+  width: 100%;
+  margin: 2em 0em 0em 19em;
+}
+
+
+.submit1 {
+  font-family: Roboto-serif;
+  font-size: 26px;
+  font-weight: 500;
+  margin: -2em 1em 1em 1em;
+padding: 4em 0em 0em 14em;
+  color: gray;
+}
+
+.Thank.you {
+  font-family: Roboto-serif;
+  font-size: 16px;
+  color: RGB(0, 0, 0);
+  margin: 1em 1em 1em 1em;
+  padding: 0em 0em 0em 23em;
+}
+
+.Gol {
+  font-family: Roboto-serif;
+  font-size: 16px;
+  color: #000000;
+  margin: -2em 0em 0em 0em;
+  padding: 3em 1em 1em 1em;
+}
+.HELP {
+  margin: 0em 0em 0em -1em;
+  padding: 0em 0em 0em 57em;
+}	
+.linkprocees {
+  float: left;
+  width: 100%;
+  margin: 1em 1em 1em 38em;
+}

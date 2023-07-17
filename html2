@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+<title>Report</title>
+<meta></meta>
+<link rel="stylesheet" type="text/css" href="css/model.css"></link>
+<script></script>
+<style></style>
+</head>
+<body>
+<div class="Report">
+<h1 class="report1">MEDaS FORM </h1>
+<h2 class="report2">Type of abuse:</h2>
+<ul class="option">
+<li>Nudity</li>
+<li>Promotes hatred, violence or illegal/offensive activities</li>
+<li>Spam, malware or "phishing" (fake login)</li>
+<li>Private and confidential information</li>
+<li>Copyright infringement</li>
+</ul>
+
+
+<h3 class="policy1">Our policy on hatred, violence and illegal or offensive activities</h3>
+<p class="policy2">Users may not share or publish content that promotes hatred or violence towards other groups based on race, ethnicity, religion, disability, gender, age, veteran status or sexual orientation/gender identity. Please note that individuals are not considered a protected group.</p>
+<p class="policy3">Users may not share or publish crude content or violent content that is shockingly graphic.</p>
+<p class="policy4">We will also remove content that threatens, harasses or bullies other people or promotes dangerous and illegal activities.</p>
+
+<a href="file:///D:/form/form?fname=+&lname=&lname=&lname=&lname=&lname=&lname=&lname=&lname=&lname=">CANCEL</a>
+
+<button class="canel1">SUBMIT ABUSE REPORT </button>
+
+
+
+
+
+
+
+
+</div>
+</body>
+
+
+

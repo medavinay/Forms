@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+<title>Report</title>
+<meta></meta>
+<link rel="stylesheet" type="text/css" href="css/model.css"></link>
+<script></script>
+<style></style>
+</head>
+<body>
+<div class="submit">
+<h1 class="submit1">MEDaS FORM </h1>
+<p class="Thank you">Thank you for reporting abuse. Your report has been submitted and will be processed as quickly as possible.</p>
+</div>
+
+
+
+
+
+
+
+
+<div class="linkprocees">
+ <h2 class="Gol">© 2022 MEDaS</h2>
+<a class="discuss" href="https://groups.google.com/g/GoogleDocs">Discuss-</a>
+<a class="privacy policy" href="https://policies.google.com/privacy?hl=en&gl=uk">privacy policy-</a>
+<a class="hlep" href="https://support.google.com/docs#topic=1382883">help</a>
+
+</div>
